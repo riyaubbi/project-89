@@ -16,3 +16,13 @@ body{
     margin-left:20px;
     
 }
+
+#output
+{
+    background-color:darkslategray;
+    border-radius:10px;
+    border-top:10px solid lightgreen;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
